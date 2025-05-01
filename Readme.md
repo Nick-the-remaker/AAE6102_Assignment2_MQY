@@ -7,6 +7,10 @@
 Super Prompt (https://github.com/NeoVertex1/SuperPrompt) aims to create an AI system that can continuously evolve, explore complex concepts, and operate at multiple levels of abstraction. It combines elements of mathematics, logic, computer science, and philosophy to create a theoretical framework for infinite expansion and self-improvement.
 link: 
 Furthermore, I use a website to create detailed promt: https://superprompt.com/
+For API address: https://api.siliconflow.cn
+API Key: sk-fzguoveoprdatkcmcydffhguntqpphlmnbtrrquudilsagks
+I use deepseek-v3 for generating, which I highly recommend.
+
 
 
 ### **Prompt of task 1**:
